@@ -1,0 +1,64 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-image: url("https://www.investopedia.com/thmb/zBpdeu9gZ-5KI8Q_3nqLoM8DzJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/money-transfer-Mobile-banking-business-buy-communication-concept-1445247-pxhere.com-532d497dd58d4b609f55f58d01066bca.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2
+{
+    text-align: center;
+    font-weight: 600;
+    font-size: 9mm;
+    color: aqua;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+form
+{
+    float:right;
+    margin-right: 30%;
+    margin-top: 5em;
+    font-size: 7mm;
+    font-weight: 600;
+    padding: 20px;
+    color: yellow;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    
+}
+input{
+    padding: 7px;
+    color: rgb(21, 255, 0);
+    font-weight: 600;
+    background-color: black;
+    font-size: 4mm;
+    margin: 20px;
+}
+select
+{
+    padding: 7px;
+    color: rgb(21, 255, 0);
+    font-weight: 600;
+    background-color: black;
+    font-size: 4mm;
+}
+label{
+    padding: 20px;
+}
+input.t
+{
+    color: rgb(72, 255, 0);
+    text-decoration: none;
+    margin: 2em;
+    border-radius: 30px;
+    box-shadow: 2px 2px rgb(245, 185, 20);
+    padding: 16px;
+    background-color: rgba(255, 255, 255, 0.11);
+    width: 10em;
+    font-size: 5mm;
+    text-shadow: 1px 1px black;
+}
+input.t:hover
+{
+    letter-spacing:2px;
+    box-shadow: 3px 2px ;
+}
